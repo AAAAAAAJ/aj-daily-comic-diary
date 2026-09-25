@@ -19,7 +19,7 @@
 
 > **A diary, not a dashboard.**
 > 
-> **它更像日记，不像报表。**
+> **它更像日记，不像报表。感谢vivi提供的基础模板和想法**
 
 ## Why it feels different · 它的特点
 
